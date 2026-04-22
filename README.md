@@ -12,6 +12,7 @@
 
 - `perceptron_demo.py`：感知机训练与预测示例。
 - `.gitignore`：忽略 Python 缓存、虚拟环境和编辑器配置文件。
+- `reading-notes.md`：人工智能专业选做读书笔记。
 
 运行方式：
 
